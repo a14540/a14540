@@ -1,4 +1,4 @@
-<h1>Goncalo Oliveira</h1>
+<h1>Gonçalo Oliveira</h1>
 <h3>Técnico de Gestão e Programação de Sistemas Informáticos</h3>
 <a href="mailto:a14540@oficina.pt"> 
   Envia email 
